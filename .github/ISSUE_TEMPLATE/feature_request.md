@@ -11,4 +11,4 @@ assignees: ''
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Was soll eingfügt oder anders beschrieben werden?**
-Bitt genau beschreiben und / oder einen Vorschlag direkt mit einfügen. Wird evtl in der Doku mit aufgenommen.
+Bitte genau beschreiben und / oder einen Vorschlag direkt mit einfügen. Wird evtl in der Doku mit aufgenommen.
