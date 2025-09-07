@@ -1,1 +1,1 @@
-Da die zip-Datei unter gitboo nicht gespeichert werden konnte, muss ich hier hinstellen.
+Da die zip-Datei unter gitbook nicht gespeichert werden konnte, muss ich es hier hinstellen.
