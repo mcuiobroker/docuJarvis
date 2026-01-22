@@ -58,7 +58,7 @@
 ### 3) Aufrufen im Browser
 - Öffne im Browser:  
   `http://<IOBROKER-IP>:<PORT>/`  
-  Beispiel: `http://192.168.178.33:3000/`
+  Beispiel: `http://192.168.178.33:8400/`
 
 ### 4) Erste Kachel / erstes Widget
 - Lege eine **Seite** an (z. B. „Wohnzimmer“)
