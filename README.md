@@ -1,5 +1,6 @@
 # Jarvis
 (22.01.2026 IN BEARBEITUNG)
+
 **Jarvis** ist eine moderne, konfigurierbare Oberfläche (Dashboard/Visualisierung) für **ioBroker**, mit der du Geräte- und Zustände übersichtlich darstellen und steuern kannst – vom Handy bis zur Wand-Tablets.
 
 > Ziel: **Schnell startklar**, später **beliebig erweiterbar** (Seiten, Widgets, Themes, Rollen, …).
@@ -7,8 +8,6 @@
 ---
 
 ## Vorschau
-
-> Füge hier 1–3 Screenshots oder ein kurzes GIF ein (das ist für neue User extrem hilfreich).
 
 ![Jarvis Screenshot](docs/assets/screenshot-dashboard.png)
 
