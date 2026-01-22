@@ -72,10 +72,10 @@
 ## Projektstruktur dieser Doku
 
 - **README.md** → Schnellüberblick & Quickstart (du bist hier)
-- `docs/01-installation.md` → Installation & Updates (inkl. Troubleshooting)
-- `docs/02-konzept.md` → Begriffe & Architektur (Mental Model)
-- `docs/03-konfiguration.md` → Alle Optionen + Beispiele
-- `docs/04-tutorials/` → Schritt-für-Schritt Anleitungen
+- [Installation Jarvis](docs/01-installation.md) → Installation & Updates (inkl. Troubleshooting)
+- [Konzept Jarvis](docs/02-konzept.md) → Begriffe & Architektur (Mental Model)
+- [Konfiguration Jarvis](docs/03-konfiguration.md) → Alle Optionen + Beispiele
+- [Tutorials](docs/04-tutorials/) → Schritt-für-Schritt Anleitungen
 - `docs/05-referenz/` → Widget-/Optionen-Referenz (Nachschlagewerk)
 - `docs/06-faq.md` → Häufige Fragen & typische Fehlerbilder
 
@@ -95,9 +95,10 @@
 
 > Hier lohnt sich ein eigener Ordner mit Beispiel-Seiten/Widgets (Screenshots + kurze Erklärung).
 
-- `docs/04-tutorials/erste-seite.md`
-- `docs/04-tutorials/licht-schalten.md`
-- `docs/04-tutorials/rollladen.md`
+- [Tuturial: Erste Seite](docs/04-tutorials/erste-seite.md)
+- [Tutorial: Licht schalten](docs/04-tutorials/licht-schalten.md)
+- [Tutorial: Rollladen](docs/04-tutorials/rollladen.md)
+
 
 ---
 
